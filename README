@@ -1,0 +1,14 @@
+Generated with TALYS-1.6
+projectile a
+ejectiles p n g
+element ELEMENT
+mass MASS_NUMBER
+energy ENERGY
+preequilibrium y
+giantresonance y
+multipreeq y
+outspectra y
+outlevels y
+outgamdis y
+filespectrum n
+elwidth 0.2
